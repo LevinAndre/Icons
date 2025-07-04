@@ -1,16 +1,16 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.2.0">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1216" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1216" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="UK5kw1WJ5jwUh2W8GejS-0" value="idnapdnapub.dbo.&lt;br&gt;&quot;pea_competitors_price_brackets_per_item_v&quot;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UK5kw1WJ5jwUh2W8GejS-0" value="idnapdnapub.dbo.&lt;br&gt;&quot;pea_competitors_price_brackets_per_item_v&quot;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="160" width="300" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="UK5kw1WJ5jwUh2W8GejS-1" value="idnapdnapub.dbo.&lt;br&gt;&quot;pia_itemrecsalprice_v&quot;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UK5kw1WJ5jwUh2W8GejS-1" value="idnapdnapub.dbo.&lt;br&gt;&quot;pia_itemrecsalprice_v&quot;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="300" width="300" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="UK5kw1WJ5jwUh2W8GejS-2" value="idnapdnapub.dbo.&lt;br&gt;&quot;CD_STORE_DIM_V&quot;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UK5kw1WJ5jwUh2W8GejS-2" value="idnapdnapub.dbo.&lt;br&gt;&quot;CD_STORE_DIM_V&quot;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="450" width="300" height="110" as="geometry" />
         </mxCell>
         <mxCell id="UK5kw1WJ5jwUh2W8GejS-3" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.6;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UK5kw1WJ5jwUh2W8GejS-0">
@@ -46,7 +46,7 @@
             <mxPoint x="480" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UK5kw1WJ5jwUh2W8GejS-8" value="Competitor Price Brackets.PBIX" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UK5kw1WJ5jwUh2W8GejS-8" value="Competitor Price Brackets.PBIX" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="160" width="300" height="110" as="geometry" />
         </mxCell>
         <mxCell id="UK5kw1WJ5jwUh2W8GejS-9" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
